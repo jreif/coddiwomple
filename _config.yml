@@ -1,9 +1,6 @@
 title: Coddiwomple
 description: |
-  Where am I today?
-  Not the same as yesterday.
-  Where will I be tomorrow?
-  Well my friend I just don't know.
+  I travel. You Read.
 permalink: ':title/'
 baseurl: "/coddiwomple" # the subpath of your site, e.g. /blog
 baseimgurl: "/coddiwomple/assets/img"
@@ -13,8 +10,7 @@ timezone: America/New_York
 # Author Settings
 author: Jacky Reif
 author-img: globe2.jpg
-about-author: |
-  I travel. You read.
+about-author:
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: # add your Github handle
