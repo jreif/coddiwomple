@@ -1,11 +1,11 @@
 ---
 layout: post
 title: I'm a digital nomad now
-date: 2019-12-24 20:39:12 -1000
+date: 2019-12-24 20:39:12 -0800
 description: Kicking off my digital nomad adventure
 img: simba.jpg
 fig-caption: Simba, Palo Alto CA
-img-pos-x: -880px
+img-pos-x: -950px
 tags: [dogs, fantasy football]
 ---
 Well, I finally did it! I packed a carry-on-sized backpack and left behind my home of 18+ years to traverse the globe for an undetermined length of time. Why you ask? Because it is awesome and because I can. Don't be jelly. Ok, be a little jelly.
