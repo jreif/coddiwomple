@@ -82,18 +82,18 @@ table tbody td {
   font-size: 13px;
 }
 table tr:nth-child(even) {
-  background: #adbecc;
+  background: #ddd;
 }
 table thead {
-  background: #a9c4d1;
-  background: linear-gradient(to bottom, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%);
-  border-bottom: 1px solid #8c8c8c;
+  background: teal;
+  background: linear-gradient(to bottom, white 0%, teal 33%, gray 100%);
+  border-bottom: 1px solid gray;
 }
 table thead th {
   font-size: 14px;
   font-weight: bold;
   color: #fff;
-  border-left: 1px solid #d0e4f5;
+  // border-left: 1px solid #d0e4f5;
 }
 table thead th:first-child {
   border-left: none;

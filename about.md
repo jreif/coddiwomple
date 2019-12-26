@@ -4,6 +4,8 @@ title: About
 img: globe.jpg
 fig-caption:
 img-pos-x:
+permalink: /about/
+order: 1
 ---
 ## About Coddiwomple Blog
 `Coddiwomple (v.): To travel in a purposeful manner towards a vague destination.`
