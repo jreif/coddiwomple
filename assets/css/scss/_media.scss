@@ -74,6 +74,13 @@
     margin: initial;
     background-color: initial;
   }
+
+  .table-wrapper {
+    overflow-x: auto;
+    table {
+      width: 650px;
+    }
+  }
 }
 
 /* Extra Small Devices, Phones */
