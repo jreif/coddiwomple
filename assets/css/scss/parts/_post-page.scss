@@ -70,8 +70,18 @@
 }
 
 .half-width-img {
-  padding: 1% 25%;
+  width: 50%;
   display: block;
   margin: auto;
-  background-color: #eee;
+}
+
+table {
+  border-collapse: collapse;
+  border: none;
+  border-spacing: 0;
+  th, td {
+    border: none;
+    border-spacing: 0;
+    padding: 0;
+  }
 }
