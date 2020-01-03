@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-img: globe.jpg
+img: hawaii_cafe.jpg
 fig-caption:
-img-pos-x:
+img-pos-x: -680px
 permalink: /about/
 order: 1
 ---
