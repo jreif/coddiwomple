@@ -2,7 +2,7 @@
 layout: page
 title: About
 img: hawaii_cafe.jpg
-fig-caption:
+fig-caption: Day at the office @ Kailua-Kona, HI
 img-pos-x: -680px
 permalink: /about/
 order: 1
