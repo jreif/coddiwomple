@@ -14,4 +14,6 @@ Most of you know I love travel. While I've been lucky to hop on extended globetr
 
 The name **Coddiwomple** was suggested by a friend when learning about my plans. Even tho it may be some made up slang word, it seemed significantly more adequate than my oft used **Guasacaca** to name anything I don't know what name to give. Plus it just sounds fun! Gracias Adriana.
 
-This blog is meant mostly for my own digital memory archive, but also to provide friends and family a glimpse into this new digital nomad adventure as it unfolds. I cannot promise I will post very frequently, but I will do my best to write something up periodically. Posts will likely be brief, so don't be expecting your next sweet procrastination destination. Maybe a couple of minutes of vicarious experience. Adjust expectations accordingly.
+This blog is meant mostly for my own digital memory archive and techno-meditative outlet, but also to provide friends and family a glimpse into this new digital nomad adventure as it unfolds. I am not trying to gain followers, drive traffic, advertise products and services, or anything of the kind.
+
+I cannot promise I will post very frequently, but I will do my best to write something up periodically. Posts will likely be brief with the occasional burst, so don't be expecting your next sweet procrastination destination. Maybe a couple of minutes of vicarious experience here and there. Adjust expectations accordingly.
