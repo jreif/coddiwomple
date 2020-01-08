@@ -16,6 +16,7 @@ layout: default
       <p>{{site.description}}</p>
     </div>
     <ul class="pages">
+      <li><a href="{{site.baseurl}}/">Posts</a></li>
       {% assign pages = site.pages | sort: "order" %}
       {% for page in pages %}
         {% if page.title %}
