@@ -19,11 +19,10 @@ This is simply a log of places visited for easy tracking. Will also list planned
 | :-: | :--------: | :--------: | :------------------- | :----------- |
 | 1   | --         | --         | Boston, MA USA       | |
 | 2   | 2019-12-17 | 2019-12-27 | Palo Alto, CA USA    | San Carlos, Redwood City, Menlo Park |
-| 3   | 2019-12-27 | 2019-12-31 | Pasadena, CA USA     | Santa Monica, Glendale, Joshua Tree Nat. Park|
-| 4   | 2019-12-31 | 2020-01-15 | Kailua-Kona, HI USA  | Kaloko, Kukio, Waikoloa, Hawi, Mauna Kea, Waimea |
-| 5   | 2020-01-15 | 2020-01-?? | ???                  | |
-| 6   | 2020-01-?? | 2020-01-28 | Honolulu, HI USA     | |
-| 7   | 2020-01-29 | 2020-0?-?? | Sydney, Australia    | |
+| 3   | 2019-12-27 | 2019-12-31 | Pasadena, CA USA     | Santa Monica, Glendale, Joshua Tree National Park|
+| 4   | 2019-12-31 | 2020-01-15 | Kailua-Kona, HI USA  | Kaloko, Kukio, Waikoloa, Waimea |
+| 5   | 2020-01-15 | 2020-01-18 | Honolulu, HI USA     | |
+| 6   | 2020-01-19 | 2020-0?-?? | Sydney, Australia    | |
 | ?   | 2020-??-?? | 2020-??-?? | ?????                | |
 
 </div>
