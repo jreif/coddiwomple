@@ -4,7 +4,7 @@ title: Midlife cris-ish
 date: 2020-01-14 13:01:45 -1000
 description:
 img: camaro.jpg
-fig-caption:
+fig-caption: My Camaro @ Waikui Beach, HI
 img-pos-x:
 tags: []
 ---
@@ -25,7 +25,7 @@ Camaro top is down. Sun is shining. Sunscreen applied. Sunglasses on. Stevie's S
 
 ![]({{site.baseimgurl}}/road-to-waimea.jpg)
 
-I played the _windiest_ round of golf EVER in spite of the flash flood warnings (rains elsewhere can roll quite speedily in other places). Absolutely bonkers. Flags bent sideways, balls blown off tees, uphill putts that wouldn't stop rolling, and even the golf cart got pushed backwards on flat ground. I don't think the PGA guys had it this tough for the weekend in Oahu. Very nice course tho. Considering the conditions, I played surprising well despite the actual non-negligible fear of the ball potentially coming back to hit me in the face after hitting it. It was THAT windy y'all. I could only let out chuckles often at the surreal results of golfing in this weather. Uniquely fun nevertheless.
+I played the _windiest_ round of golf EVER in spite of the flash flood warnings (rains elsewhere can roll quite speedily in other places). Absolutely bonkers. Flags bent sideways, balls blown off tees, uphill putts that wouldn't stop rolling, and even the golf cart got pushed backwards on flat ground. I don't think the PGA guys had it this tough for the weekend in Oahu. Very nice course tho. Considering the conditions, I played surprising well despite the actual non-negligible fear of the ball potentially coming back to hit me in the face after striking it. It was THAT windy y'all. I could only let out chuckles often at the surreal results of golfing in this weather. Uniquely fun nevertheless.
 
 ![]({{site.baseimgurl}}/waikoloa-golf.jpg) | ![]({{site.baseimgurl}}/waikoloa-rainbow.jpg)
 
