@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Straya day
-date: 2020-01-28 20:34:47 +1100
+title: Straya Day
+Date: 2020-01-28 20:34:47 +1100
 description:
 img: opera-house.jpg
 fig-caption: Opera House @ Sydney, Australia
