@@ -4,7 +4,7 @@ title: I'm a digital nomad now
 date: 2019-12-24 20:39:12 -0800
 description: Kicking off my digital nomad adventure
 img: simba.jpg
-fig-caption: Simba, Palo Alto CA
+fig-caption: Simba @ Palo Alto CA
 img-pos-x: -950px
 tags: []
 ---

@@ -22,7 +22,7 @@ This is simply a log of places visited for easy tracking. Will also list planned
 | 3   | 2019-12-27 | 2019-12-31 | Pasadena, CA USA     | Santa Monica, Glendale, Joshua Tree National Park|
 | 4   | 2019-12-31 | 2020-01-15 | Kailua-Kona, HI USA  | Kaloko, Kukio, Waikoloa, Waimea, Hapuna Beach |
 | 5   | 2020-01-15 | 2020-01-18 | Honolulu, HI USA     | Waikiki, Electrics Beach |
-| 6   | 2020-01-19 | 2020-0?-?? | Sydney, Australia    | Berowra |
-| ?   | 2020-??-?? | 2020-??-?? | ?????                | |
+| 6   | 2020-01-19 | 2020-02-05 | Sydney, Australia    | Berowra, Curl Curl Beach, Umina Beach, etc |
+| ?   | 2020-02-05 | 2020-??-?? | Queenstown, New Zealand | |
 
 </div>
