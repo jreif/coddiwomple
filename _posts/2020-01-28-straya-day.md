@@ -8,7 +8,7 @@ fig-caption: Opera House @ Sydney, Australia
 img-pos-x: -750px
 tags: []
 ---
-First trek into Sydney. I probably walked 4 hours straight right off the train. When I get into city-exploring mode I find it hard to stop wanting to just reach that next spot or see whats around that next corner, or where does this or that path take me to. I lose myself in the novel cityscape. Zig zagged downtown before looping around the iconic Sydney Opera House. Mandatory photos were taken. I was not aware the roofs are actually made of granite tiles. Bad ass. But to me, the best part was visiting the Royal Botanic Gardens right next door. Very sunny and hot day, but when you reach the windy spots, glorious! Eventually, the heat slowed me down and had to recharge at a crowded Starbucks. Tapping on the free wifi of course. I must say that in a way, downtown Sydney gives me a very Londonian vive.
+First trek into Sydney. I probably walked 4 hours straight right off the train. When I get into city-exploring mode I find it hard to stop, wanting to just reach that next spot, or see whats around that next corner, or where does this or that path take me to. I lose myself in the novel cityscape. Zig zagged downtown before looping around the iconic Sydney Opera House. Mandatory photos were taken. I was not aware the roofs are actually made of granite tiles. Bad ass. But to me, the best part was visiting the Royal Botanic Gardens right next door. Very sunny and hot day, but when you reach the windy spots, glorious! Eventually, the heat slowed me down and had to recharge at a crowded Starbucks. Tapping on the free wifi of course. I must say that in a way, downtown Sydney gives me a very Londonian vive.
 
 ![]({{site.baseimgurl}}/sydney-pano.jpg)
 
