@@ -3,14 +3,16 @@ layout: post
 title: Straya day
 date: 2020-01-28 20:34:47 +1100
 description:
-img: sydney-pano.jpg
-fig-caption: Sydney, Australia
-img-pos-x: -3850px
+img: opera-house.jpg
+fig-caption: Opera House @ Sydney, Australia
+img-pos-x: -750px
 tags: []
 ---
 First trek into Sydney. I probably walked 4 hours straight right off the train. When I get into city-exploring mode I find it hard to stop wanting to just reach that next spot or see whats around that next corner, or where does this or that path take me to. I lose myself in the novel cityscape. Zig zagged downtown before looping around the iconic Sydney Opera House. Mandatory photos were taken. I was not aware the roofs are actually made of granite tiles. Bad ass. But to me, the best part was visiting the Royal Botanic Gardens right next door. Very sunny and hot day, but when you reach the windy spots, glorious! Eventually, the heat slowed me down and had to recharge at a crowded Starbucks. Tapping on the free wifi of course. I must say that in a way, downtown Sydney gives me a very Londonian vive.
 
-![]({{site.baseimgurl}}/sydney-downtown.jpg) | ![]({{site.baseimgurl}}/sydney-opera-house.jpg)
+![]({{site.baseimgurl}}/sydney-pano.jpg)
+
+![]({{site.baseimgurl}}/sydney-downtown.jpg) | ![]({{site.baseimgurl}}/opera-house-zoom.jpg)
 
 I wasn't aware in Australia most shops and cafes close super early, around 4-5pm. There are a few reasons for it, but mainly due to different shopping habits and the high cost of labor. This of course makes it inconvenient for this digital nomad to find spots to sit and work or grab a snack/drink in the early evening. It is not 100% of them and there are still plenty of restaurants and other venues however; not a full shut out. But something to plan for and navigate.
 
