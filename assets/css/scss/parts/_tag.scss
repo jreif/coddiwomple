@@ -6,10 +6,10 @@
     font-size: 30px;
     text-align: center;
     line-height: 1.3;
-    color: teal;
+    color: mediumturquoise;
   }
   h2 {
-    color: teal;
+    color: mediumturquoise;
     margin: 10px 0;
   }
 }
@@ -23,7 +23,7 @@
     list-style: none;
     a {
       text-decoration: none;
-      color: teal;
+      color: mediumturquoise;
       display: inline-block;
       padding: 5px 10px;
       border: 1px solid $gray;
@@ -40,7 +40,7 @@
   span {
     a {
       text-decoration: none;
-      color: teal;
+      color: mediumturquoise;
       &:hover {
         text-decoration: underline;
         opacity: .8;

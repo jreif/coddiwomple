@@ -68,8 +68,8 @@ pre {
 }
 
 table {
-  border: 1px solid #aaa;
-  background-color: #f0f0f0;
+  // border: 1px solid #aaa;
+  background-color: #555;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
@@ -79,10 +79,10 @@ table td, table.blueTable th {
   padding: 3px 2px;
 }
 table tbody td {
-  font-size: 13px;
+  font-size: 14px;
 }
 table tr:nth-child(even) {
-  background: #ddd;
+  background: #666;
 }
 table thead {
   background: rgb(77,106,121);
@@ -102,8 +102,8 @@ table tfoot {
   font-size: 14px;
   font-weight: bold;
   color: #fff;
-  background: #d0e4f5;
-  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: rgb(77,106,121);
+  // background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
   border-top: 2px solid #444;
 }
 table tfoot td {
