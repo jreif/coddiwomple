@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remarkable place
-Date: 2020-02-04 23:28:11 +1100
+Date: 2020-02-04 15:00:31 +1300
 description:
 img: qt-sunset.jpg
 fig-caption: Sunset over Lake Wakatipu @ Queenstown, New Zealand
