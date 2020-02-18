@@ -23,7 +23,8 @@ This is simply a log of places visited for easy tracking. Will also list planned
 | 4   | 2019-12-31 | 2020-01-15 | Kailua-Kona, HI USA  | Kaloko, Kukio, Waikoloa, Waimea, Hapuna Beach |
 | 5   | 2020-01-15 | 2020-01-18 | Honolulu, HI USA     | Waikiki, Electrics Beach |
 | 6   | 2020-01-19 | 2020-02-05 | Sydney, Australia    | Berowra, Curl Curl, Umina, Bondi, Coogee, Culburra, Callala, etc |
-| 7   | 2020-02-05 | 2020-02-18 | Queenstown, New Zealand | |
-| 8   | 2020-02-18 | 2020-??-?? | ??, New Zealand | |
+| 7   | 2020-02-05 | 2020-02-18 | Queenstown, New Zealand | Glenorchy |
+| 8   | 2020-02-18 | 2020-??-?? | Christchurch, New Zealand | |
+| 9   | 2020-??-18 | 2020-??-?? | ??, New Zealand | |
 
 </div>
