@@ -4,7 +4,7 @@ title: Under construction
 Date: 2020-02-25 20:57:54 +1300
 description:
 img: chc-cathedral.jpg
-fig-caption:
+fig-caption: Quake damage to Christchurch Cathedral @ Christchurch, New Zealand
 img-pos-x: -1000px
 tags: []
 ---
