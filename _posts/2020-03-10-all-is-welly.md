@@ -4,21 +4,21 @@ title: All is Welly
 Date: 2020-03-10 23:11:41 +1300
 description:
 img: welly-culo.jpg
-fig-caption:
-img-pos-x:
+fig-caption: Appropriately named bar @ Wellington, New Zealand
+img-pos-x: -850px
 tags: []
 ---
-So... this week was quite tumultuous. This is a bit longer post than usual.
+So... this week was quite tumultuous. This post is a bit longer than usual.
 
-**After** boarding our plane out of CHC we were informed that the previous crew had noticed something odd on their flight and that the engineers were going to investigate a seemingly simple issue. Eighty minutes later we finally took off. So that was fun! I got a window seat instead of isle hoping to see some of the landscape from above on a short flight. Unfortunately there was full cloud coverage and, altho that is pretty in it's own right, I missed the sights.
+**After** boarding our plane out of CHC we were informed that the previous crew had noticed something odd on their flight and that the engineers were going to investigate a seemingly simple issue. A quick eighty minutes later we finally took off. So that was fun! I got a window seat instead of an isle one hoping to see some of the landscape from above on a short flight. Unfortunately there was full cloud coverage and, altho that is pretty in it's own right, I missed the sights.
 
 ![]({{site.baseimgurl}}/welly-clouds.jpg)
 
 Well, I'm in Wellington (aka Welly) now and all is well (lamest line on my blog yet, my apologies). I booked a bed in a well reviewed hostel's 4-bed dorm to reduce the chances of snoring roommates (as opposed to 6, 8, or 12 bed dorms) and keep lodging costs down. Lucky me, 2 of the other 3 people in the room snore. FML! All other hostels seem to be booked for private rooms so I got stuck.
 
-First day in new city I did not leave the hostel at all as I was given the gift of a big time sensitive work task. I told myself that the day was cloudy and hence ok to stay in and the lounge couch was comfortable. Eventually did go out to grab some take out dinner and watched a flick in the hostel's comfy movie room.
+First day in new city I did not leave the hostel at all as I was given the gift of a big time sensitive work task. I told myself that the day was cloudy and hence ok to stay in, plus the lounge couch was quite comfortable. Eventually I did go out to grab some take out dinner and watched a flick in the hostel's comfy movie room.
 
-Managed to switch dorm rooms the next night hoping a fresh roll of the dice could result in snore-less roommates. Fail. It was only one snorer this time, but this guy has straight up sleep apnea.
+Managed to switch dorm rooms the next night hoping a fresh roll of the dice could result in snore-less roommates. Fail. It was only one snorer this time, but this guy has straight up sleep apnea, and it's not mild.
 
 Some of you may be wondering why I don't just use ear plugs. Fair question. I did/do try and it never works. A part of the reason is that I just don't like wearing them and have trouble sleeping with them on defeating the purpose. The deeper reason is that my mind, for whatever reason, likes to lock in on most periodic sounds. So even a ticking clock or slow water dripping could keep me up at night. In addition, I am also keenly attuned to tracking snoring after having worked in sleep research for several years in the past including doing frequency analysis of snore sounds to identify obstruction sites in the airway. Hours upon hours of auditory bliss y'all! The restricted airflow in the breathing of a snorer also triggers an empathetic/psychosomatic sensation of restricted breathing on myself. So no matter how quiet the snoring is, as with earplugs, if I can hear it at all, then I'm screwed. I usually resort to wearing headphones and playing music loud enough to fully drown the invading sound, but then can't get to sleep anyway. Still better than listening to the snores. The irony is not lost in that I myself sometimes snore. It is not common, but it does happen. This mortifies me as I absolutely hate to put others through what I despise so much. Sigh.
 
