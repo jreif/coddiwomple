@@ -25,7 +25,9 @@ This is simply a log of places visited for easy tracking. Will also list planned
 | 6   | 2020-01-19 | 2020-02-05 | Sydney, Australia    | Berowra, Curl Curl, Umina, Bondi, Coogee, Culburra, Callala, etc |
 | 7   | 2020-02-05 | 2020-02-18 | Queenstown, New Zealand | Glenorchy |
 | 8   | 2020-02-18 | 2020-03-04 | Christchurch, New Zealand | Akaroa, New Brighton |
-| 9   | 2020-03-04 | 2020-??-?? | Wellington, New Zealand | Newtown |
-| 9   | 2020-??-?? | 2020-??-?? | ??, New Zealand | |
+| 9   | 2020-03-04 | 2020-03-16 | Wellington, New Zealand | Newtown, Zealandia |
+| 10  | 2020-03-16 | 2020-??-?? | Taupo, New Zealand | |
+| 11  | 2020-??-?? | 2020-??-?? | Rotorua, New Zealand | |
+| 12  | 2020-??-?? | 2020-??-?? | Tauranga, New Zealand | |
 
 </div>
