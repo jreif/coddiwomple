@@ -26,8 +26,7 @@ This is simply a log of places visited for easy tracking. Will also list planned
 | 7   | 2020-02-05 | 2020-02-18 | Queenstown, New Zealand | Glenorchy |
 | 8   | 2020-02-18 | 2020-03-04 | Christchurch, New Zealand | Akaroa, New Brighton |
 | 9   | 2020-03-04 | 2020-03-16 | Wellington, New Zealand | Newtown, Zealandia |
-| 10  | 2020-03-16 | 2020-??-?? | Taupo, New Zealand | |
-| 11  | 2020-??-?? | 2020-??-?? | Rotorua, New Zealand | |
-| 12  | 2020-??-?? | 2020-??-?? | Tauranga, New Zealand | |
+| 10  | 2020-03-16 | 2020-03-23 | Taupo, New Zealand | Huka Falls, Tongariro Alpine Crossing |
+| 11  | 2020-03-23 | 2020-03-25 | Auckland, New Zealand | Airport, boo! |
 
 </div>

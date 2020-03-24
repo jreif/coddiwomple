@@ -4,7 +4,7 @@ title: Zealandia
 Date: 2020-03-17 23:01:02 +1300
 description:
 img: welly-zealandia.jpg
-fig-caption:
+fig-caption: Zealandia Ecosanctuary @ Wellington, New Zealand
 img-pos-x: -500px
 tags: []
 ---
